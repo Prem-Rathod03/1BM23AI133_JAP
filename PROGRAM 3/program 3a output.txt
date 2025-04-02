@@ -1,0 +1,8 @@
+String Comparison
+Are the strings equal?false
+
+String copy:
+Original string:Copy me!
+Copied StringCopy me!
+
+String concatenation
